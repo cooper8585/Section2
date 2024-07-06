@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//made mistake when naming 
 /*
 next term is the sum of the previous two terms.
 The first two terms of the Fibonacci sequence are 0 followed by 1.
@@ -34,4 +34,3 @@ int main()
     
     }
 }
-
